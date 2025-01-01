@@ -1,12 +1,3 @@
-"""
-    Filename: holcombe_project5.py
-    Author: Jake Holcombe
-    Date: 6/9/2023
-    Course: COMP 1353
-    Assignment: Project 5 - File System Tree
-    Collaborators: None
-    Internet Source: None
-"""
 import pickle
 class TreeNode:
     # Instace Vars
